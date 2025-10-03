@@ -9,7 +9,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/25122400/file/original-271f6ce69968c55f62c161ce20cdb718.gif">
 
 ### 🚀 About Me
-- 🎓 B.E. Computer Science at **Chitkara Institute of Engineering & Technology** (Aug 2023 – June 2027) — CGPA: **9.12**
+- 🎓 B.E. Computer Science at **Chitkara Institute of Engineering & Technology** (Aug 2023 – June 2027) — CGPA: **9.14**
 - 💻 **Full Stack Developer** — React, Next.js, Node.js
 - 🤖 **AI/ML Enthusiast** — building intelligent applications
 - 📊 Passionate about Data Science, PowerBI & Analytics
