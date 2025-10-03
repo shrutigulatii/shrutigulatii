@@ -120,7 +120,7 @@
 ---
 
 ## 🏅 Achievements & Leadership
-- 🥇 **GeeksForGeeks — Web Crafters 2.0** — 1st Runner Up (Dec 2024). Project artifacts: [Drive Link](https://drive.google.com/file/d/1p6gOrJge_94US_P2uJgDfAK25z1vRotD/view?usp=drive_link)  
+- 🥇 **GeeksForGeeks — Web Crafters 2.0** — 1st Runner Up (Dec 2024). 
 - 🌏 **GLOW Program (Telkom University, Indonesia)** — International AI exchange (July 2025)  
 - 👥 **Head — Bits n Bytes Club** (Jan 2025 – Present)  
 - 🚀 **Smart India Hackathon 2024** — Finalist project (Career Counselling Platform)
@@ -132,10 +132,8 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shruti-gulati-5a0402311/)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shrutigulati34@gmail.com)  
-[![Phone](https://img.shields.io/badge/Phone-%2B91--62805--16919-blue?style=for-the-badge&logo=phone&logoColor=white)](tel:+916280516919)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shrutigulati34@gmail.com)   
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shrutigulatii)  
-[![Expocity](https://img.shields.io/badge/Expocity-%23007ACC.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://expocity.vercel.app/)  
-[![Neovatech](https://img.shields.io/badge/Neovatech-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.neovatech.in/)
+
 
 </div>
